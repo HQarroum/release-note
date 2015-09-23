@@ -12,7 +12,7 @@ Release notes are documents that are distributed with software products, sometim
 
 ## Why a project for that ?
 
-I've created this project for my own personal use in the first place. I actually use this format for communicating with thrid-party developers or clients about the changes involved in each version of the software I deliver. The main reasons I use this release note format is :
+I actually use this format for communicating with third-party developers or clients about the changes involved in each version of the software I deliver. The main reasons I use this release note format is :
 
  * I find it to be very user-friendly, and radically changes the perception of the *ugly-and-hard-to-read* release note found in the middle of a project.
  
@@ -21,3 +21,23 @@ I've created this project for my own personal use in the first place. I actually
 * Using an HTML rich document makes it also possible to embed a lot more semantic elements (both syntaxically and graphically) in the document to give more sense out of each release.
 
 This format is not suited for every use-case though, especially when an existing solution is available on the project/platform you are woking on/with. For instance using this format with open-source projects on Github may seem overkill since a single `CHANGELOG.md` might suffice.
+
+## Guidelines
+
+The main guidelines I apply to my self when editing the document are akin to those documented on [Keep a Changelog](http://keepachangelog.com/). The most important being :
+
+ * Write for humans, not machines.
+ * Easy to link to any section (hence Markdown over plain text).
+ * One sub-section per version.
+ * List releases in reverse-chronological order (newest on top).
+ * Write all dates in `YYYY-MM-DD` format. It’s international, sensible, and language-independent.
+ * Explicitly mention whether the project follows [Semantic Versioning](http://semver.org/).
+ * Each version should:
+  * List its release date in the above format.
+  * Group changes to describe their impact on the project, as follows:
+   * Added for new features.
+   * Changed for changes in existing functionality.
+   * Deprecated for once-stable features removed in upcoming releases.
+   * Removed for deprecated features removed in this release.
+   * Fixed for any bug fixes.
+   * Security to invite users to upgrade in case of vulnerabilities.
