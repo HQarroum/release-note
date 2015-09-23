@@ -1,4 +1,4 @@
-# release-notes
+# Changelog
 
 Beautiful, minimalist release notes in the browser
 
