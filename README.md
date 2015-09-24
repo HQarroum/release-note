@@ -7,6 +7,10 @@ Current version: **1.0.0**
 
 Lead Maintainer: [Halim Qarroum](mailto:hqm.post@gmail.com)
 
+<p align="center">
+ <img width="640" src="logo.png"/>
+</p>
+
 ## What's a release note ?
 
 Release notes are documents that are distributed with software products, sometimes when the product is still in the development or test state (e.g., a beta release). For products that have already been in use by clients, the release note is delivered to the customer when an update is released. - [Wikipedia](https://en.wikipedia.org/wiki/Release_notes)
