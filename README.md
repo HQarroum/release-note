@@ -8,7 +8,7 @@ Current version: **1.0.0**
 Lead Maintainer: [Halim Qarroum](mailto:hqm.post@gmail.com)
 
 <p align="center">
- <img width="640" src="logo.png"/>
+ <img width="840" src="logo.png"/>
 </p>
 
 ## Install
