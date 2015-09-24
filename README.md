@@ -20,6 +20,8 @@ I actually use this format for communicating with third-party developers or clie
 
 * Using an HTML rich document makes it also possible to embed a lot more semantic elements (both syntaxically and graphically) in the document to give more sense out of each release.
 
+* This document does not rely on third-party resources and can be consulted offline, meaning that it does not require an Internet connectivity to be viewable. This comes in handy when the document is embedded in an application (desktop or mobile), or even on an embedded device.
+
 This format is not suited for every use-case though, especially when an existing solution is available on the project/platform you are woking on/with. For instance using this format with open-source projects on Github may seem overkill since a single `CHANGELOG.md` might suffice.
 
 ## Guidelines
@@ -27,7 +29,7 @@ This format is not suited for every use-case though, especially when an existing
 The main guidelines I apply to my self when editing the document are akin to those documented on [Keep a Changelog](http://keepachangelog.com/). The most important being :
 
  * Write for humans, not machines.
- * Easy to link to any section (hence Markdown over plain text).
+ * Easy to link to any section.
  * One sub-section per version.
  * List releases in reverse-chronological order (newest on top).
  * Write all dates in `YYYY-MM-DD` format. It’s international, sensible, and language-independent.
