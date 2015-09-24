@@ -21,10 +21,10 @@ module.exports = function (grunt) {
                 }
             }
         },
-	    cssmin: {
+        cssmin: {
             dist: {
                 expand: true,
-		        cwd: 'src/assets/css',
+                cwd: 'src/assets/css',
                 src: ['*.css'],
                 dest: 'dist/assets/css'
             }
