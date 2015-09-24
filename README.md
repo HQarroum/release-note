@@ -11,6 +11,18 @@ Lead Maintainer: [Halim Qarroum](mailto:hqm.post@gmail.com)
  <img width="640" src="logo.png"/>
 </p>
 
+## Install
+
+##### Using NPM
+
+```bash
+npm install --save release-note
+```
+
+## Example
+
+To demonstrate the release note format, a sample page is available [right here](https://hqarroum.github.io/release-note). In this example, we took the example of the latest Google Chrome release notes to populate our own release note document, and to illustrate how it would render in the real life.
+
 ## What's a release note ?
 
 Release notes are documents that are distributed with software products, sometimes when the product is still in the development or test state (e.g., a beta release). For products that have already been in use by clients, the release note is delivered to the customer when an update is released. - [Wikipedia](https://en.wikipedia.org/wiki/Release_notes)
