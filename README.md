@@ -1,4 +1,5 @@
 # Release note
+[![Build Status](https://travis-ci.org/HQarroum/release-note.svg)](https://travis-ci.org/HQarroum/release-note)
 
 Beautiful, minimalist, and responsive release notes in the browser.
 
