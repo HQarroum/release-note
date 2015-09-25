@@ -27,9 +27,9 @@ To demonstrate the release note format, a sample page is available [right here](
 
 Release notes are documents that are distributed with software products, sometimes when the product is still in the development or test state (e.g., a beta release). For products that have already been in use by clients, the release note is delivered to the customer when an update is released. - [Wikipedia](https://en.wikipedia.org/wiki/Release_notes)
 
-## Why a project for that ?
+## Why making a project for that ?
 
-I actually use this format for communicating with third-party developers or clients about the changes involved in each version of the software I deliver. The main reasons I use this release note format is :
+I actually use this format for communicating with third-party developers or clients about the changes involved in each version of the software I deliver, and I find it interesting to share it with anyone interested. The main reasons I use this release note format is :
 
  * I find it to be very user-friendly, and radically changes the perception of the *ugly-and-hard-to-read* release note found in the middle of a project.
  
