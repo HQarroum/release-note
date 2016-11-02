@@ -1,5 +1,6 @@
 # Release note
 [![Build Status](https://travis-ci.org/HQarroum/release-note.svg)](https://travis-ci.org/HQarroum/release-note)
+![Production ready](https://img.shields.io/badge/Production-Ready-brightgreen.svg)
 
 Beautiful, minimalist, and responsive release notes in the browser.
 
