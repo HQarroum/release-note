@@ -1,4 +1,6 @@
 # Release note
+> An implementation of the C++14 optional pattern. See [demo here](https://hqarroum.github.io/release-note).
+
 [![Build Status](https://travis-ci.org/HQarroum/release-note.svg)](https://travis-ci.org/HQarroum/release-note)
 ![Production ready](https://img.shields.io/badge/Production-Ready-brightgreen.svg)
 
@@ -19,10 +21,6 @@ Lead Maintainer: [Halim Qarroum](mailto:hqm.post@gmail.com)
 ```bash
 npm install --save release-note
 ```
-
-## Example
-
-To demonstrate the release note format, a sample page is available [right here](https://hqarroum.github.io/release-note). In this example, we took the example of the latest Google Chrome release notes to populate our own release note document, and to illustrate how it would render in the real life.
 
 ## What's a release note ?
 
