@@ -2,7 +2,7 @@
 > Beautiful, minimalist, and responsive release notes in the browser. See [demo here](https://hqarroum.github.io/release-note).
 
 [![Build Status](https://travis-ci.org/HQarroum/release-note.svg)](https://travis-ci.org/HQarroum/release-note)
-![Production ready](https://img.shields.io/badge/Production-Ready-brightgreen.svg)
+![Production ready](https://img.shields.io/badge/production-ready-brightgreen.svg)
 
 Current version: **1.0.0**
 
