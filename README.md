@@ -1,6 +1,4 @@
 # Release note
-
-[![Greenkeeper badge](https://badges.greenkeeper.io/HQarroum/release-note.svg)](https://greenkeeper.io/)
 > Beautiful, minimalist, and responsive release notes in the browser. See [demo here](https://hqarroum.github.io/release-note).
 
 [![Build Status](https://travis-ci.org/HQarroum/release-note.svg)](https://travis-ci.org/HQarroum/release-note)
